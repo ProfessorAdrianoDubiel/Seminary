@@ -1,1 +1,2 @@
 # Seminary
+Participação em Seminários.
